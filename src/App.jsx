@@ -1,7 +1,7 @@
 "use client"
 import { useState, useEffect } from "react"
 import { Heart, Mail, Star, Sparkles, X } from 'lucide-react'
-import "./app.css"
+import "./App.css"
 
 
 function App() {
